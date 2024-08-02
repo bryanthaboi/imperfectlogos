@@ -3961,7 +3961,7 @@
 			}
 
 			function showModal(filename) {
-				document.getElementById("modalImage").src = filename;
+				document.getElementById("modalImage").src = "/logos/" + filename;
 				document.getElementById("modal").classList.remove("hidden");
 				document.getElementById("downloadBtn").onclick = () =>
 					downloadSVG(filename);
@@ -3972,11 +3972,7 @@
 			};
 
 			function downloadSVG(filename) {
-				const githubUsername = "imperfectlogos";
-				const repoName = "bryanthaboi";
-				const branch = "main";
-
-				const rawUrl = `https://raw.githubusercontent.com/${githubUsername}/${repoName}/${branch}/${filename}`;
+				const rawUrl = `https://bryanthaboi.github.io/imperfectlogos/logos/${filename}`;
 
 				const a = document.createElement("a");
 				a.style.display = "none";
