@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## 📞 Contact
 
-X - [@ybryanthaboi](https://x.com/bryanthaobi)
+X - [@bryanthaboi](https://x.com/bryanthaobi)
 
 ## 🙏 Acknowledgments
 
