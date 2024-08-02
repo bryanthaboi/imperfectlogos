@@ -3961,7 +3961,8 @@
 			}
 
 			function showModal(filename) {
-				document.getElementById("modalImage").src = "/logos/" + filename;
+				document.getElementById("modalImage").src =
+					"https://bryanthaboi.github.io/imperfectlogos/" + filename;
 				document.getElementById("modal").classList.remove("hidden");
 				document.getElementById("downloadBtn").onclick = () =>
 					downloadSVG(filename);
