@@ -2,13 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**3800 Imperfect Stock Logos | 90% are 80% Perfect | Easy to Clean Up in Figma**
+**3800 Imperfect Company Logos | 90% are 80% Perfect | Easy to Clean Up in Figma**
 
 [View Github Page](http://bryanthaboi.github.io/imperfectlogos)
 
 ## 🌟 About The Project
 
-ImperfectLogos is a unique collection of 3800 stock logos that are _almost_ perfect. Whether you're a designer looking for inspiration or a developer in need of quick placeholder graphics, our library has got you covered!
+Imperfect Logos is a unique collection of 3800 company logos that are _almost_ perfect. Whether you're a designer looking for inspiration or a developer in need of quick placeholder company graphics, our library has got you covered!
 
 ### 🎭 Why "Imperfect"?
 
